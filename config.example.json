@@ -1,0 +1,23 @@
+{
+  "app": {
+    "ssl": {
+      "privateKey": "",
+      "certificate": ""
+    }
+  },
+  "rethinkdb": {
+    "host": "",
+    "port": "",
+    "events_map": {
+      "location_temp_stats": {
+        "database": "",
+        "table": ""
+      }
+    }
+  },
+  "mariadb" : {
+    "host":     "",
+    "user":     "",
+    "password": ""
+  }
+}
